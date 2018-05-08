@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: deployer
+  namespace: DEV
+  selfLink: /api/v1/namespaces/DEV/configmaps/deployer
+data:
+  deployer.txt: ocp

@@ -1,0 +1,5 @@
+*.SVN
+note.txt
+*-temp-*.yaml
+*-temp-*.sh
+*.zip
